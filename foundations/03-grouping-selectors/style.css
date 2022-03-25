@@ -1,0 +1,13 @@
+.unique {
+    background: black;
+    color: white;
+}
+
+.unocchio {
+    background: yellow;
+}
+
+.unique, .unocchio {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
