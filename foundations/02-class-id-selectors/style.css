@@ -1,0 +1,19 @@
+.odds, .throdds {
+    background: #ff8080;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.throdds {
+    font-size: 24px;
+}
+
+#four {
+    background: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
